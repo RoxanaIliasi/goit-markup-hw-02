@@ -87,6 +87,7 @@ span {
 }
 .team {
     background-color: #FFFFFF;
+}
 .title {
     font-size: 36px;
     line-height: 1.11;
@@ -109,12 +110,15 @@ span {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.section_three{
+    background-color: #F4F4FD;
+}
 .team {
     background-color: #F4F4FD;;
 }
 .title {
-    stilul font-size: 36px;
-    gn stilul line-height: 1.11;
+    font-size: 36px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -136,9 +140,9 @@ span {
     color: #434455;
 }
 .title_four {
-    stilul font-size: 36px;
-    stilul line-height: 1.11;
-    stilul text-align: center;
+    font-size: 36px;
+line-height: 1.11;
+ text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -163,11 +167,9 @@ span {
 }
 .footer {
     background-color: #2E2F42;
-    color: #F4F4FD;
+    
 }
-span {
-    color: #2E2F42;
-}
+
 .studio_footer {
     color: #F4F4FD
 }
