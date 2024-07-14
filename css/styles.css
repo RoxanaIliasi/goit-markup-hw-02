@@ -17,18 +17,12 @@ body{
     font-weight: 400;
 
 }
-.section1{
+.section_1{
     background-color: #2E2F42;
 }
 .team{
-    background-color: #F4F4FD;
-}
-h1{
-    font-size:56px;
-    line-height: 60px;
-    font-weight: 700;
-    color:#FFFFFF;
-}
+    background-color: #FFFFFF;
+
 h2{
     font-size:36px;
     font-weight: 700;
@@ -99,15 +93,14 @@ span{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.title1{
+.title_1{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-
 }
-.title2{
+.title_2{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -141,7 +134,7 @@ span{
     color: #2e2f42;
 }
 
-.title4{
+.title_4{
     stilul font-size: 36px;
     stilul line-height: 1.11;
     stilul text-align: center;
@@ -149,7 +142,7 @@ span{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.subtitle4{
+.subtitle_4{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -185,4 +178,12 @@ span{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.title{
+    stilul font-size: 36px;
+    stilul line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
