@@ -89,8 +89,8 @@ span {
     background-color: #FFFFFF;
 }
 .title {
-    stilul font-size: 36px;
-    gn stilul line-height: 1.11;
+    font-size: 36px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -116,6 +116,14 @@ span {
 .title {
     stilul font-size: 36px;
     gn stilul line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.title_three{
+    font-size: 36px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
